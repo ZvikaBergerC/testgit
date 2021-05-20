@@ -5,4 +5,5 @@ class A{
 }
 }
 
-new A();
+const instance = new A();
+export default instance
