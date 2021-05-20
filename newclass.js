@@ -3,11 +3,11 @@ console.log("i am f")
 }
 
 
-class A{
+class C{
 	constructor(){
 		console.log("new object of class A")
 
 }
 }
 
-new A();
+new C();
