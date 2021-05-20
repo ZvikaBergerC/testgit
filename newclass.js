@@ -2,12 +2,13 @@ cosnt  f= ()=>{
 console.log("i am f")
 }
 
-
-class C{
+class B{
 	constructor(){
-		console.log("new object of class A")
-
+		console.log("new object of class B");
 }
 }
 
-new C();
+
+const instance = new B();
+export default instance
+
