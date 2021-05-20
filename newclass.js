@@ -3,12 +3,12 @@ console.log("i am f")
 }
 
 
-class A{
+class B{
 	constructor(){
-		console.log("new object of class A")
+		console.log("new object of class B")
 
 }
 }
 
-const instance = new A();
+const instance = new B();
 export default instance
